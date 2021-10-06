@@ -1,0 +1,2 @@
+Os 7 passos fundamentais são ter atenção ao enunciado, retirar informações relevantes,pensar entradas e saídas,fazer um esquema visual,criar código feito,testar força bruta e refatorar.
+Podem nos ajudar a entender melhor a lógica e oque o eunciado esta pedindo, facilitando a resolução dos exercícios.
